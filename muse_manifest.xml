@@ -1,0 +1,249 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="raikonkoski.github.io" resolutions="1x" timestamp="1496252538878">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_str.css" crc="4194409328" ref="news3:index:news5:news4:news1:news2"/>
+    <file name="news3.css" crc="4198444464" ref="news3"/>
+    <file name="index.css" crc="3792911486" ref="index"/>
+    <file name="news5.css" crc="2351808" ref="news5"/>
+    <file name="news4.css" crc="4249511098" ref="news4"/>
+    <file name="news1.css" crc="4008749035" ref="news1"/>
+    <file name="news2.css" crc="4220478370" ref="news2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:news1:news2:news3:news4:news5"/>
+    <file name="museutils.js" crc="4232573551" ref="index:news1:news2:news3:news4:news5"/>
+    <file name="whatinput.js" crc="86476730" ref="index:news1:news2:news3:news4:news5"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:news1:news2:news3:news4:news5"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:news1:news2:news3:news4:news5"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:news1:news2:news3:news4:news5"/>
+    <file name="require.js" crc="4234670167" ref="index:news1:news2:news3:news4:news5"/>
+    <file name="webpro.js" crc="3770351119" ref="news2"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="news2"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="news2"/>
+    <file name="touchswipe.js" crc="3912873526" ref="news2"/>
+  </folder>
+  <folder name="images">
+    <file name="loog.png" crc="4238618135" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home.png" crc="407824583" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contacts.png" crc="294160810" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7-слой 0.png" crc="4216882796" ref="index:news1:news2:news3:news4:news5">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11-1.png" crc="4017290945" ref="index:news1:news2:news3:news4:news5">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11-12.png" crc="478226820" ref="index:news1:news2:news3:news4:news5">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="22-2.png" crc="3876009386" ref="index:news1:news2:news3:news4:news5">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="22-22.png" crc="3905348735" ref="index:news1:news2:news3:news4:news5">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="33-3.png" crc="4254030167" ref="index:news1:news2:news3:news4:news5">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="33-32.png" crc="78951478" ref="index:news1:news2:news3:news4:news5">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="44-4.png" crc="441983740" ref="index:news1:news2:news3:news4:news5">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="44-42.png" crc="72015912" ref="index:news1:news2:news3:news4:news5">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="55.png" crc="4254802280" ref="index:news1:news2:news3:news4:news5">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="55-5.png" crc="3945918895" ref="index:news1:news2:news3:news4:news5">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="61.png" crc="22833850" ref="index:news1:news2:news3:news4:news5">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="61-6.png" crc="255636926" ref="index:news1:news2:news3:news4:news5">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-слой 0.png" crc="367712213" ref="index:news1:news2:news3:news4:news5">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-слой 0 копия.png" crc="106523253" ref="index:news1:news2:news3:news4">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="uprava.png" crc="4159377119" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="news.png" crc="430316147" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="history.png" crc="3837326824" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vov.png" crc="54342166" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="school.png" crc="4162477643" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mans.png" crc="420656290" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lirika.png" crc="4107478902" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="map.png" crc="4237583744" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vk1.png" crc="380017423" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vk2.png" crc="66243842" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image.png" crc="3934773497" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="partnyrs.png" crc="392188171" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="media.png" crc="170662825" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="earth.gif" crc="380162060" seo="true" ref="index:news1:news2:news3:news4:news5">
+      <caption webpage="index" alt=""/>
+      <caption webpage="news5" alt=""/>
+      <caption webpage="news3" alt=""/>
+      <caption webpage="news1" alt=""/>
+      <caption webpage="news2" alt=""/>
+      <caption webpage="news4" alt=""/>
+    </file>
+    <file name="up.png" crc="4181470156" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nebo.png" crc="216267941" ref="index:news1:news2:news3:news4:news5">
+      <caption webpage="index" alt=""/>
+      <caption webpage="news5" alt=""/>
+      <caption webpage="news3" alt=""/>
+      <caption webpage="news1" alt=""/>
+      <caption webpage="news2" alt=""/>
+      <caption webpage="news4" alt=""/>
+    </file>
+    <file name="n8.jpg" crc="4154523484" seo="true" ref="news1">
+      <caption webpage="news1" alt=""/>
+    </file>
+    <file name="n10.jpg" crc="4084270597" seo="true" ref="news1">
+      <caption webpage="news1" alt=""/>
+    </file>
+    <file name="7-слой 0 копия.png" crc="390109139" ref="news1:news2:news3:news4:news5">
+      <caption webpage="news1" alt=""/>
+    </file>
+    <file name="n9.jpg" crc="4056370661" seo="true" ref="news1">
+      <caption webpage="news1" alt=""/>
+    </file>
+    <file name="n7.jpg" crc="4110733247" seo="true" ref="news2">
+      <caption webpage="news2" alt=""/>
+    </file>
+    <file name="n5.jpg" crc="4176657408" seo="true" ref="news2">
+      <caption webpage="news2" alt=""/>
+    </file>
+    <file name="n6.jpg" crc="113155423" seo="true" ref="news2">
+      <caption webpage="news2" alt=""/>
+    </file>
+    <file name="spas11.jpg" crc="4044864561" seo="true" ref="news2">
+      <caption webpage="news2" alt=""/>
+    </file>
+    <file name="dolgo1-u1407-fr.jpg" crc="4160352053" ref="news2"/>
+    <file name="dolgo2-u1409-fr.jpg" crc="3822304520" ref="news2"/>
+    <file name="dolgo3-u1408-fr.jpg" crc="335618049" ref="news2"/>
+    <file name="dolgo4-u1410-fr.jpg" crc="4064940044" ref="news2"/>
+    <file name="dolgo1.jpg" crc="36423435" ref="news2">
+      <caption webpage="news2" alt=""/>
+    </file>
+    <file name="dolgo2.jpg" crc="4229736865" ref="news2">
+      <caption webpage="news2" alt=""/>
+    </file>
+    <file name="dolgo3.jpg" crc="266083573" ref="news2">
+      <caption webpage="news2" alt=""/>
+    </file>
+    <file name="dolgo4.jpg" crc="3992903232" ref="news2">
+      <caption webpage="news2" alt=""/>
+    </file>
+    <file name="sport4.jpg" crc="147034351" seo="true" ref="news4">
+      <caption webpage="news4" alt=""/>
+    </file>
+    <file name="sport2.jpg" crc="4234817301" seo="true" ref="news4">
+      <caption webpage="news4" alt=""/>
+    </file>
+    <file name="sport3.jpg" crc="4261125029" seo="true" ref="news4">
+      <caption webpage="news4" alt=""/>
+    </file>
+    <file name="71e02ceb8d781f.jpg" crc="3886197060" seo="true" ref="news5">
+      <caption webpage="news5" alt=""/>
+    </file>
+    <file name="43878.jpg" crc="3771237448" seo="true" ref="news5">
+      <caption webpage="news5" alt=""/>
+    </file>
+    <file name="20102826.gif" crc="437826066" seo="true" ref="news5">
+      <caption webpage="news5" alt=""/>
+    </file>
+    <file name="новости-favicon.ico" crc="357239831" ref="index"/>
+    <file name="n11.jpg" crc="310396958" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="n111.jpg" crc="5460043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="n1111.jpg" crc="78712234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="новости-3-favicon.ico" crc="357239831" ref="news1"/>
+    <file name="новости-1-favicon.ico" crc="357239831" ref="news2"/>
+    <file name="новости-2-favicon.ico" crc="357239831" ref="news3"/>
+    <file name="новости-4-favicon.ico" crc="357239831" ref="news4"/>
+    <file name="новости-5-favicon.ico" crc="357239831" ref="news5"/>
+  </folder>
+  <file name="index.html" crc="123103095" seo="true" mt="1496252499143" redirect="true"/>
+  <file name="news1.html" crc="4178458815" seo="true" mt="1496168955240" redirect="true"/>
+  <file name="news2.html" crc="122466854" seo="true" mt="1496168955240" redirect="true"/>
+  <file name="news3.html" crc="197816203" seo="true" mt="1496168955240" redirect="true"/>
+  <file name="news4.html" crc="4153522622" seo="true" mt="1496168955240" redirect="true"/>
+  <file name="news5.html" crc="4232354978" seo="true" mt="1496168955240" redirect="true"/>
+</manifest>
